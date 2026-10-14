@@ -1,4 +1,4 @@
-"""Barbell exercise classifier + rep counter: interview demo.
+"""Barbell exercise classifier + rep counter
 
     streamlit run app.py
 """
