@@ -104,6 +104,6 @@ over `models/model.joblib`.
 
 ## Data
 
-Sensor recordings come from the public MetaMotion dataset used in the "Tracking Barbell Exercises"
-tutorial series. Raw data is not included in this repository. Only the demo sets in `data/sample/`
+Sensor recordings come from the public MetaMotion dataset, collected by data scientist Dave Ebbelaar.
+Raw data is not included in this repository. Only the demo sets in `data/sample/`
 are.
